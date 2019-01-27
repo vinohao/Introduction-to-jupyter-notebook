@@ -12,3 +12,7 @@ This tutorial will cover the following topics:
 * A practical introduction to the components that were covered in the first section, complete with examples of Pandas DataFrames, an explanation on how to make your notebook documents magical, and answers to frequently asked questions.
 
 * The best practices and tips that will help you to make your notebook an added value to any data science project!
+## The website of downlodaing Anaconda:
+https://www.anaconda.com/download/
+## the website of installing Jupyter Notebook:
+https://jupyter.org/install
